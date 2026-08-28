@@ -10,14 +10,14 @@ I build **apps for LG webOS TVs, LLM developer tooling, and small tools that scr
 
 ### ✨ Events
 
-- [**art-calendar-tokyo**](https://github.com/CheerChen/art-calendar-tokyo) — 东京艺术展日历，LLM 驱动的爬虫 + R2 存储 + CF Pages 前端 → [art-calendar-tokyo.pages.dev](https://art-calendar-tokyo.pages.dev)
-- [**nana.live.acc**](https://github.com/CheerChen/nana.live.acc) — 水樹奈々演唱会数据库，曲目、巡演、数据分析 → [nana-live-acc.pages.dev](https://nana-live-acc.pages.dev)
+- [**art-calendar-tokyo**](https://github.com/CheerChen/art-calendar-tokyo) — Tokyo art exhibition calendar, LLM-powered scraper → [art-calendar-tokyo.pages.dev](https://art-calendar-tokyo.pages.dev)
+- [**nana.live.acc**](https://github.com/CheerChen/nana.live.acc) — Nana Mizuki live concert database, setlists, tours, and analytics → [nana-live-acc.pages.dev](https://nana-live-acc.pages.dev)
 
 ### 📺 webOS TV
 
-- [**decotv-webos**](https://github.com/CheerChen/decotv-webos) — DecoTV 的 LG webOS 客户端，豆瓣目录、多源测速、遥控器全导航、硬件解码播放
-- [**navidrome-stage-webos**](https://github.com/CheerChen/navidrome-stage-webos) — 把沉浸式歌词舞台搬上 LG webOS 电视，逐字同步、连接自建 Navidrome
-- [**webos-tv-kit**](https://github.com/CheerChen/webos-tv-kit) — webOS TV 应用的共享平台层和设备工具链
+- [**decotv-webos**](https://github.com/CheerChen/decotv-webos) — DecoTV LG webOS client, Douban catalog, multi-source speed test, full remote navigation, hardware-decoded playback
+- [**navidrome-stage-webos**](https://github.com/CheerChen/navidrome-stage-webos) — Immersive lyrics stage on LG webOS TV, per-character sync, connects to self-hosted Navidrome
+- [**webos-tv-kit**](https://github.com/CheerChen/webos-tv-kit) — Shared platform layer and device tooling for webOS TV apps
 
 ### 🤖 LLM Developer Tooling
 
