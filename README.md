@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I build **apps for LG webOS TVs, LLM developer tooling, and small tools that scratch my own itch** — based in Tokyo.
+I build **apps for LG webOS TVs, VR video tools, LLM developer tooling, and small tools that scratch my own itch** — based in Tokyo.
 
 🌐 [cheerchen.me](https://cheerchen.me)
 
@@ -24,9 +24,12 @@ I build **apps for LG webOS TVs, LLM developer tooling, and small tools that scr
 - [**ctxd**](https://github.com/CheerChen/ctxd) — turn work URLs into LLM-ready Markdown; exports GitHub PRs, Slack threads, Confluence pages, and Jira issues
 - [**session-index-viewer**](https://github.com/CheerChen/session-index-viewer) — local web viewer to browse and resume Claude Code & Codex CLI sessions
 
+### 🥽 VR
+
+- [**PasteToPlay**](https://github.com/CheerChen/pastetoplay) — VR video player for Meta Quest. Paste a link, it just plays. Auto-detects VR180/360/SBS/TB/fisheye from the actual frames → [pastetoplay.app](https://pastetoplay.app) · [Meta Horizon Store](https://www.meta.com/experiences/pastetoplay-180360-vr-video-player/1231909206675936/)
+
 ### 🧰 Other
 
-- [**pastetoplay**](https://github.com/CheerChen/pastetoplay) — paste-URL VR video player for Meta Quest 3
 - [**userscripts**](https://github.com/CheerChen/userscripts) — personal userscripts
 
 ---
