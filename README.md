@@ -22,7 +22,8 @@ I build **apps for LG webOS TVs, VR video tools, LLM developer tooling, and smal
 ### 🤖 LLM Developer Tooling
 
 - [**ctxd**](https://github.com/CheerChen/ctxd) — turn work URLs into LLM-ready Markdown; exports GitHub PRs, Slack threads, Confluence pages, and Jira issues
-- [**TideTab**](https://github.com/CheerChen/tidetab) — Chrome new tab that ranks your Jira issues, GitHub PRs, and Confluence pages from local browsing history → [Chrome Web Store](https://chromewebstore.google.com/detail/tidetab/hpgpcibggjcpfcifddfcbpakbfojiaef)
+- [**TideTab**](https://github.com/CheerChen/tidetab) — Chrome new tab that ranks your Jira issues, GitHub PRs, and Confluence pages from local browsing history  
+  <a href="https://chromewebstore.google.com/detail/tidetab/hpgpcibggjcpfcifddfcbpakbfojiaef"><img src="assets/chrome-web-store-badge.png" alt="Available in the Chrome Web Store" height="40"></a>
 - [**session-index-viewer**](https://github.com/CheerChen/session-index-viewer) — local web viewer to browse and resume Claude Code & Codex CLI sessions
 
 ### 🥽 VR
