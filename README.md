@@ -29,11 +29,15 @@ I build **apps for LG webOS TVs, VR video tools, developer tooling, and small to
 
 ### 🥽 VR
 
-- [**PasteToPlay**](https://pastetoplay.app) — VR video player for Meta Quest. Paste a link, it just plays. Auto-detects VR180/360/SBS/TB/fisheye from the actual frames → [Meta Horizon Store](https://www.meta.com/experiences/pastetoplay-180360-vr-video-player/1231909206675936/)
+- [**PasteToPlay**](https://pastetoplay.app) — VR video player for Meta Quest. Paste a link, it just plays. Auto-detects VR180/360/SBS/TB/fisheye from the actual frames  
+  <a href="https://www.meta.com/experiences/pastetoplay-180360-vr-video-player/1231909206675936/"><img src="assets/badges/meta-horizon-store.svg" alt="Download on Meta Horizon Store" height="40"></a>
 
 ### 🧰 Other
 
 - [**userscripts**](https://github.com/CheerChen/userscripts) — personal userscripts
+- [**telegram-bots**](https://github.com/CheerChen/telegram-bots) — Telegram and LINE bots running on Cloudflare Workers
+  - [@cc_katakana_bot](https://t.me/cc_katakana_bot) — look up the Japanese reading (katakana) of a Chinese or English word
+  - [@cc_xvideo_bot](https://t.me/cc_xvideo_bot) — send an X/Twitter link, get the video back
 
 ---
 
@@ -41,10 +45,10 @@ I build **apps for LG webOS TVs, VR video tools, developer tooling, and small to
 
 **Languages**
 
-[![](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=ffffff)](https://go.dev/)
-[![](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=ffffff)](https://www.python.org/)
-[![](https://img.shields.io/badge/-TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=ffffff)](https://www.typescriptlang.org/)
-[![](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000)](https://developer.mozilla.org/docs/Web/JavaScript)
+[![Go](assets/badges/go.svg)](https://go.dev/)
+[![Python](assets/badges/python.svg)](https://www.python.org/)
+[![TypeScript](assets/badges/typescript.svg)](https://www.typescriptlang.org/)
+[![JavaScript](assets/badges/javascript.svg)](https://developer.mozilla.org/docs/Web/JavaScript)
 
 **AI & Tools**
 
@@ -54,11 +58,11 @@ I build **apps for LG webOS TVs, VR video tools, developer tooling, and small to
 
 **Platform**
 
-[![](https://img.shields.io/badge/-macOS-292e33?style=flat-square&logo=apple&logoColor=ffffff)](https://www.apple.com/macos/)
-[![](https://img.shields.io/badge/-LG%20webOS-9c27b0?style=flat-square&logo=lg&logoColor=ffffff)](https://webostv.developer.lge.com/)
-[![](https://img.shields.io/badge/-Homebrew-FBB040?style=flat-square&logo=homebrew&logoColor=000000)](https://brew.sh/)
-[![](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=ffffff)](https://www.cloudflare.com/)
-[![](https://img.shields.io/badge/-Meta%20Quest-1c1e1c?style=flat-square&logo=meta&logoColor=ffffff)](https://www.meta.com/quest/)
+[![macOS](assets/badges/macos.svg)](https://www.apple.com/macos/)
+[![LG webOS](assets/badges/lg-webos.svg)](https://webostv.developer.lge.com/)
+[![Homebrew](assets/badges/homebrew.svg)](https://brew.sh/)
+[![Cloudflare](assets/badges/cloudflare.svg)](https://www.cloudflare.com/)
+[![Meta Quest](assets/badges/meta-quest.svg)](https://www.meta.com/quest/)
 
 ---
 

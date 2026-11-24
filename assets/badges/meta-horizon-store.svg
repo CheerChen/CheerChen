@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="222" height="48" viewBox="0 0 222 48" role="img" aria-label="Download on Meta Horizon Store">
+  <title>Download on Meta Horizon Store</title>
+  <rect width="222" height="48" rx="12" fill="#000"/>
+  <g transform="translate(6.8 2.4) scale(1.2)">
+    <path d="M6 18C6 13 9 10 13 10C15 10 16.5 11 18 13C19.5 11 21 10 23 10C27 10 30 13 30 18C30 23 27 26 23 26C21 26 19.5 25 18 23C16.5 25 15 26 13 26C9 26 6 23 6 18Z" fill="#fff"/>
+  </g>
+  <g fill="#fff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif">
+    <text x="56" y="21" font-size="10" opacity="0.85" textLength="62" lengthAdjust="spacingAndGlyphs">Download on</text>
+    <text x="56" y="38" font-size="16" font-weight="600" textLength="146" lengthAdjust="spacingAndGlyphs">Meta Horizon Store</text>
+  </g>
+</svg>
