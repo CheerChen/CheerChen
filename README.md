@@ -32,6 +32,10 @@ I build **apps for LG webOS TVs, VR video tools, developer tooling, and small to
 - [**PasteToPlay**](https://pastetoplay.app) — VR video player for Meta Quest. Paste a link, it just plays. Auto-detects VR180/360/SBS/TB/fisheye from the actual frames  
   <a href="https://www.meta.com/experiences/pastetoplay-180360-vr-video-player/1231909206675936/"><img src="assets/badges/meta-horizon-store.svg" alt="Download on Meta Horizon Store" height="40"></a>
 
+### 🎮 Games
+
+- [**ffta-demo**](https://github.com/CheerChen/ffta-demo) — FFTA-style snowball fight rebuilt as a rotating 3D board in Three.js; fan-made, not affiliated with Square Enix → [Play in browser](https://ffta.cheerchen.me)
+
 ### 🧰 Other
 
 - [**userscripts**](https://github.com/CheerChen/userscripts) — personal userscripts
